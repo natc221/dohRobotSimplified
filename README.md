@@ -1,5 +1,7 @@
-#DOH Robot Usage
+#D.O.H Robot Simplified
 ----
+
+Provide more convenient and efficient usage of using Dojo Objective Harness Robot for testing a basic web page.
 
 ####Required files/folders:
 - dojo/robot.js
